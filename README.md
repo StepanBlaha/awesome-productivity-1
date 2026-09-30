@@ -51,6 +51,7 @@ Tools for capturing, organizing, and retrieving information.
 - [OneNote](https://www.onenote.com/) — Microsoft's note-taking platform.
 - [Roam Research](https://roamresearch.com/) — Networked thought and note-taking tool.
 - [Tana](https://tana.inc/) — Structured knowledge management platform.
+- [Brink](https://brinknotch.site) - Free, open-source macOS notch for your Notion pages and tasks: peek, tick, capture and edit without opening Notion.
 
 ## Calendars & Scheduling
 
